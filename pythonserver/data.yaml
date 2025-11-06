@@ -1,0 +1,5 @@
+# data.yaml
+train: D:/PythonServakAPI111/train/images
+val: D:/PythonServakAPI111/valid/images
+nc: 17
+names: ['Alcohol', 'Candy', 'Canned Food', 'Chocolate', 'Dessert', 'Dried Food', 'Dried Fruit', 'Drink', 'Gum', 'Instant Drink', 'Instant Noodles', 'Milk', 'Personal Hygiene', 'Puffed Food', 'Seasoner', 'Stationery', 'Tissue']
